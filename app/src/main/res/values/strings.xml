@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperClick</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_digit">0</string>
+    <string name="click_me">Click Me</string>
+    <string name="click_stats_header">You have clicked</string>
+    <string name="reset">RESET COUNTER</string>
+    <string name="times">Times!!</string>
+    <string name="switch_activity">Switch Activity</string>
+    <string name="title_activity_second">"Statistics "</string>
+    <string name="sample_counter">50</string>
+    <string name="you_made">You made</string>
+    <string name="clicks">Clicks during your last clicking spree!</string>
+    <string name="take_me_back">TAKE ME BACK</string>
+</resources>
